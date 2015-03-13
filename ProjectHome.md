@@ -1,0 +1,2 @@
+Librerías y adicionales para tus proyectos PHP; desarrolladas por mí a lo largo de un par de años, librerías utilitarias para datos, LDAP, imágenes, gestión de archivos, etc.
+Un lugar donde encontrarás todas las librerías que uso.
